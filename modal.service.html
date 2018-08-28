@@ -1,0 +1,8 @@
+<div class="modal-body" id="modalBody">
+	<p>{{ popupText.header }}</p>
+    <p>{{ popupText.body }}</p>
+</div>
+<div class="modal-footer">
+    <button id="btnOne" class="btn btn-default" type="button" ng-click="btnOneClick()">{{popupText.btnOneName}}</button>
+    <button id="btnTwo" class="btn btn-default" type="button" ng-click="btnTwoClick()" ng-show="secondButton">{{popupText.btnTwoName}}</button>
+</div>

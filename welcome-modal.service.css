@@ -1,0 +1,28 @@
+.ctnrWelcomePopUp {
+    height: 230px;
+}
+
+.welcomeCompanyLogo {
+    font-size: 50px;
+    padding-left:0px;
+}
+
+.welcomeCompanyLogo img {
+    margin-top: -13px;
+    height: 40px;
+    width: 40px;
+}
+
+.welcomePopupGreetingLine {
+    font-size: 30px;
+    line-height: 65px;
+}
+
+.welcomePopupGreetingLineRecruiter {
+    font-size: 30px;
+    line-height: 55px;
+}
+
+.welcomePopupGreetingLineSecond {
+    font-size: 21px;
+}
