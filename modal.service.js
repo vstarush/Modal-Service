@@ -1,7 +1,7 @@
 (function() {
 	'use strict';
 	
-	angular.module('seeMeHireMeApp')
+	angular.module('appName')
 	.service('modalService', function($uibModal) {
 		return {
 			popupModal: function(modalMessageObject) {
